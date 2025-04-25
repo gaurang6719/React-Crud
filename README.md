@@ -38,7 +38,7 @@ Built with 💙 by [Gaurang Dobariya](https://github.com/gaurang6719)
 
 ## 📸 Preview
 
-![App Preview](https://react-crud-bygaurang.vercel.app/) <!-- Add a screenshot of your app in `public/preview.png` -->
+https://react-crud-bygaurang.vercel.app/
 
 ---
 

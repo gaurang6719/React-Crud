@@ -1,12 +1,60 @@
-# React + Vite
+# ⚛️ React CRUD App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React.js CRUD (Create, Read, Update, Delete) application with advanced UI/UX features including:
 
-Currently, two official plugins are available:
+- 🔍 Live Search
+- 📄 Pagination
+- ➕ Add Product Drawer
+- ⚙️ Column Settings Drawer
+- 🔄 Editable & Deletable Rows
+- 💾 LocalStorage for persistent data
+- 🔔 Toast Notifications
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with 💙 by [Gaurang Dobariya](https://github.com/gaurang6719)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ✅ Add / Edit / Delete Products
+- 🔍 Real-time Search Filtering
+- 📊 Column Visibility Toggle (Settings Drawer)
+- 💬 Toast Messages for User Feedback
+- 📁 Data Persistence using `localStorage`
+- 🎨 Clean and Responsive UI using Tailwind CSS
+- ✨ Smooth animations with Framer Motion
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Functional Components & Hooks
+- **Tailwind CSS v4** – Utility-first styling
+- **Lucide Icons** – Clean modern icon library
+- **React Toastify** – Notifications
+- **LocalStorage API** – Persisting data
+
+---
+
+## 📸 Preview
+
+https://react-crud-bygaurang.vercel.app/
+
+---
+
+## 📦 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/gaurang6719/React-Crud.git
+cd React-Crud
+
+
+## Install dependencies:
+npm install
+
+## Run the app:
+npm run dev
+
+

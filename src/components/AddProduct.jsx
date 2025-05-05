@@ -12,6 +12,7 @@ const AddProduct = ({ isOpen, onClose, handleSave, editProduct }) => {
     discount: "",
     category: "",
     image: null,
+    
   });
 
   useEffect(() => {

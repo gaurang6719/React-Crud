@@ -632,7 +632,7 @@ body.no-scroll {
   .form-actions {
     margin-top: auto;
     display: flex;
-    justify-content: flex-start; // aligns buttons to bottom-left
+    justify-content: flex-start;
     gap: 12px;
     background-color: #ffffff;
     padding-top: 16px;
@@ -756,32 +756,6 @@ input[type="checkbox"]:checked + .custom-checkbox {
     gap: 12px;
   }
 }
-
-// .form-actions-setting {
-//   display: flex;
-//   gap: 12px;
-//   margin-top: 495px;
-
-//   button {
-//     padding: 10px 16px;
-//     width: 110px;
-//     height: 40px;
-//     font-size: 14px;
-//     border: none;
-//     cursor: pointer;
-
-//     &:first-child {
-//       background-color: #ffffff;
-//       color: #73788b;
-//       border: 2px solid #73788b;
-//     }
-
-//     &:last-child {
-//       background-color: #007aff;
-//       color: white;
-//     }
-//   }
-// }
 
 .error-message {
   display: flex;
